@@ -1,0 +1,11 @@
+	Coq formalization of matrix differentiation
+
+=============
+
+	Peng Wang (wangp.thu@gmail.com)
+
+=============
+
+Folder structure:
+
+  theories: Coq formalization of matrix differentiation
