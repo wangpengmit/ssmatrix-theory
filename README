@@ -9,3 +9,7 @@
 Folder structure:
 
   theories: Coq formalization of matrix differentiation
+
+License:
+
+  This library is under the CeCILL-B license, found in file CeCILL-B
